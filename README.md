@@ -7,3 +7,5 @@
     <li> Rendering and refreshing the shop every session from a seperate file </li>
     <li> Passing information with 'Add to cart/Remove from cart' buttons</li>
     <li> Updating total value as the quantity of items in the cart changes</li></p>
+
+</p>Images from unsplash.com/</p> 
